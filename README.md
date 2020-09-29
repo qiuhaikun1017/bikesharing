@@ -6,31 +6,31 @@ In this assignment, we will use a powerful data visualization too: Tableau to fi
 ### Insights 
 ## Checkout Times for Users
 In this graph, we can easily find out that the most number of ride is 4-5 hours 
-![1]()
+![bikesharing/screenshots/1.png]()
 
 ## Checkout Times for Gender
 in this graph, we can find that for female and unknown gender, the hours of ride is steadly the same; however, for the male, the hour of ride is slowly climbing to 4-6 hours as the most number; then gradually decrease after 6 hours
-![2]()
+![bikesharing/screenshots/2.png]()
 
 ## Trips by Weekday per Hour
 in this graph, the stronger the colour is, the more number that area has. in this case, we can easily identify that Thursday from 5 pm to 6 pm is the period that has most of the people
-![3]()
+![bikesharing/screenshots/3.png]()
 
 ## Trips by Gender (Weekday per Hour) 
 in this graph, the number of ride is shown as the same logic as the previous graph. From the colour of the graphs, we can find out that male rider has generally more ride than the female. 
-![4]()
+![bikesharing/screenshots/4.png]()
 
 ## User Trips by Gender by Weekday
 In this graph, we can find out the in general, the subscriber group has more ride than the customer group. And the male subscriber has more ride than the female rider in general
-![5]()
+![bikesharing/screenshots/5.png]()
 
 ## Top Starting Locations
 We can easily find out in which location the users are frequently starting their bike, which means we can use this graph to easily find which area has the biggest potential to discover the customer
-![6]()
+![bikesharing/screenshots/6.png]()
 
 ## Top Ending Locations
 We can easily find out in which location the users are frequently ending their bike, which means we can use this graph to easily find which area has the biggest potential to discover the customer
-![7]()
+![bikesharing/screenshots/7.png]()
 
 ### Summary
 
