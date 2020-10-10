@@ -1,5 +1,8 @@
 # bikesharing
 
+## Public Link for Tableau
+https://public.tableau.com/views/chanllenge/chanllenge?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
+
 ### Purpose
 In this assignment, we will use a powerful data visualization too: Tableau to find some business  insights from a large data set of bike riding recordings. In this initial raw dataset, some valuable information are recorded: for each ride, we are given the the starting location, end location, duration of riding, gender of user starting time and ending time, etc. We can use these valuable information to find the geographical areas that has the most riders to bike and find the period of time that has the most number of active rider in a day or in a weekday. This precious information can help us to figure out our customer group and determine business strategy and marketing plan based on the potential customer group
 
